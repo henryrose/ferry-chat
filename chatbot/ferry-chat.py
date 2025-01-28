@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR-OPENAI-API-KEY')
 
 while True:
     # Get user input
